@@ -5,3 +5,6 @@ Master modification #1
 Modification in feature branch #1
 
 Modification in feature brannch #2
+
+Master modification #2
+
